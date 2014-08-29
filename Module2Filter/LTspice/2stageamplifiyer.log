@@ -1,0 +1,65 @@
+Circuit: * C:\Users\Brandon\Dropbox\school\JD\Module2Filter\LTspice\2stageamplifiyer.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.75797e-008
+vernier = 0.0416667
+vernier = 0.0555555
+Gmin = 1.59176e-008
+vernier = 0.074074
+Gmin = 1.35544e-008
+vernier = 0.0987653
+vernier = 0.131687
+Gmin = 1.04316e-008
+vernier = 0.175583
+vernier = 0.23411
+Gmin = 6.91042e-009
+vernier = 0.312147
+Gmin = 3.5713e-009
+vernier = 0.416196
+vernier = 0.554928
+Gmin = 1.23879e-009
+vernier = 0.739903
+vernier = 0.986537
+Gmin = 2.43074e-010
+vernier = 1
+Gmin = 2.6454e-011
+Gmin = 2.84048e-012
+Gmin = 3.04994e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sat Feb 01 15:00:19 2014
+Total elapsed time: 0.220 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1164
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 39
+fillins = 49
+solver = Normal
+Matrix Compiler1:     261 opcodes
+Matrix Compiler2: off  [1.1]/1.8/3.6
+
+
